@@ -1,0 +1,8 @@
+.odometer {
+  font-size: 60px;
+  margin: 200px 0;
+  text-align: center;
+  width: 100%;
+  -webkit-animation-duration: 3s;
+          animation-duration: 3s;
+}
